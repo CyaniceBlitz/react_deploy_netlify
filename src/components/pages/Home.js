@@ -8,7 +8,7 @@ function Home() {
         <div className="HomeWeb">
         <p>Jeric Nisperos</p>
         
-        <a className="links" href="https://jericnisperos.github.io/AndromedaBlitzV2/">Andromeda Blitz WebGL Version</a>
+        <a className="linksweb" href="https://jericnisperos.github.io/AndromedaBlitzV2/">Andromeda Blitz WebGL Version</a>
         </div>
        
         </>
